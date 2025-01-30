@@ -3,8 +3,8 @@ Interested in pure electronics and debugging machine level code. C programming, 
 Looking to collaborate on programming for sorts of Dreamcast and Sega Saturn mods. Currently in the middle of hardware repairs.
 
  Welcome !
+ Bienvenido !
  ようこそ　！
-
 <!---
 Mag-Aegis/Mag-Aegis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
